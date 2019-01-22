@@ -28,7 +28,7 @@ int main()
              pcc = 0;
 
              if ( ( co == '\n' ) && ( c ==  '\n' ) )
-                printf( "<br>\n" );
+                printf( "<br><br>\n" );
              else
                 printf( "\n" );
            }
